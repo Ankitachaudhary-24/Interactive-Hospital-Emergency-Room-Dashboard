@@ -20,6 +20,7 @@ The dashboard enables hospital administrators and stakeholders to:
 - Support informed decision-making for improving patient care and hospital operations.
 
 📊 Key Performance Indicators (KPIs)
+
 👨‍⚕️ Number of Patients
 ⏳ Average Wait Time
 ⭐ Patient Satisfaction Score
@@ -39,7 +40,7 @@ Shows the departments receiving the highest patient referrals, including:
 - Renal
 - Gastroenterology
 - None
--
+
  ❓ Business Questions Answered
 
 This dashboard answers the following business questions:
