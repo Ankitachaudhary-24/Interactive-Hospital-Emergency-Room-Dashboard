@@ -39,7 +39,8 @@ Shows the departments receiving the highest patient referrals, including:
 - Renal
 - Gastroenterology
 - None
-❓ Business Questions Answered
+-
+ ❓ Business Questions Answered
 
 This dashboard answers the following business questions:
 
